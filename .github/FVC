@@ -1,0 +1,56 @@
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fart Vine Coin ($FVC) - The Loudest Meme Coin on Solana</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #4CAF50;
+            color: white;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            padding: 50px;
+        }
+        .logo {
+            max-width: 200px;
+        }
+        .button {
+            display: inline-block;
+            background-color: #FFA500;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            font-size: 20px;
+            margin-top: 20px;
+            border-radius: 10px;
+        }
+        .button:hover {
+            background-color: #FF8C00;
+        }
+        .footer {
+            margin-top: 50px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>💨 Fart Vine Coin ($FVC) 💨</h1>
+        <h2>The Loudest Meme Coin on Solana!</h2>
+        <img src="fartvine_logo.png" alt="Fart Vine Coin Logo" class="logo">
+        <p>$FVC is here to bring back the best Vine memes in crypto form. Join the movement before it blows up! 🚀</p>
+        <a href="#how-to-buy" class="button">How to Buy</a>
+        <h2>🔗 Live Chart</h2>
+        <p><a href="https://birdeye.so/token/FVC" target="_blank">Check FVC on Birdeye</a></p>
+        <h2>💬 Join the Community</h2>
+        <p><a href="https://twitter.com/FartVineCoin" target="_blank">Follow us on Twitter</a> | <a href="https://t.me/FartVineCoin" target="_blank">Join Telegram</a></p>
+        <div class="footer">
+            <p>&copy; 2025 Fart Vine Coin. All Rights Reserved.</p>
+        </div>
+    </div>
+</body>
+</html>
